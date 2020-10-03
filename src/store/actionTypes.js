@@ -1,0 +1,9 @@
+export const LOGIN_START = "LOGIN_START"
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS"
+export const LOGIN_FAIL = "LOGIN_FAIL"
+
+export const LOGOUT = "LOGOUT"
+
+export const FETCH_GOODS_START = "FETCH_GOODS_START"
+export const FETCH_GOODS_SUCCESS = "FETCH_GOODS_SUCCESS"
+export const FETCH_GOODS_FAIL = "FETCH_GOODS_FAIL"
